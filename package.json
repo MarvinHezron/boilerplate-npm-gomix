@@ -1,6 +1,6 @@
 {
-	"author": "Marvin Hezron",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Marvin Hezron",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
